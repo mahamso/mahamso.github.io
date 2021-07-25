@@ -9,4 +9,4 @@ To view a Jupyter notebook, please click the following link:
 
 If you'd like to go back to the home page, please click the following link:
 
--[Home Page](/mahamso/mahamso.github.io)
+-[Home Page](mahamso.github.io)
