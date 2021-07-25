@@ -7,4 +7,6 @@ To view a Jupyter notebook, please click the following link:
 - [Sample Notebook (html)](SampleJupyterNotebook.html)
 - [Sample Notebook (ipynb)](SampleJupyterNotebook.ipynb)
 
-If you'd like to go back to the main website, please click the following link:
+If you'd like to go back to the home page, please click the following link:
+
+-[Home Page](/mahamso/mahamso.github.io)
