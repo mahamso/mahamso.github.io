@@ -3,7 +3,7 @@ title: Sample project
 description: This page will be updated to add new projects in the future.
 ---
 
-To view a Jupyter notebook, please click the following link:
+To view a Jupyter notebook, please click the following links:
 - [Sample Notebook (html)](SampleJupyterNotebook.html)
 - [Sample Notebook (ipynb)](SampleJupyterNotebook.ipynb)
 
