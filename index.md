@@ -9,3 +9,6 @@ Below, you will find a link to sample content. But first, please enjoy this pict
 
 Sample Project:
 - [Sample Project Folder](/sampleproject/index.md)
+
+I also have created a sample repository. Please view the repository here:
+[Sample Repository](https://github.com/mahamso/sample)
