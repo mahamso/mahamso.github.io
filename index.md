@@ -1,6 +1,6 @@
 ---
-title: New Title
-description: New description
+title: Maham's Website
+description: Hi everyone, welcome to my website! Here, I will be showcasing any cool projects I've worked on. Thanks for checking out the site!
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
